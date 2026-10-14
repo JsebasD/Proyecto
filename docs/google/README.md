@@ -14,9 +14,10 @@ Tu negocio vende **solo online**. La suspensión es solo del **Perfil de Empresa
 
 ## Qué pedir a Google
 
-- Que **restaure la ficha**.
+- Que **restaure la misma ficha**.
+- Que **conserve los comentarios y las reseñas** del café en esa ficha.
 - Que **no** la deje como tienda física en Maps.
-- Si la restauran, que quede **sin dirección pública** o se cierre.
+- Si la restauran, que quite la dirección pública en la misma ficha, para que las reseñas sigan ahí.
 
 ## Qué no envíes
 

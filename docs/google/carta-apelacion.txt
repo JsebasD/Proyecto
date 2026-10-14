@@ -17,9 +17,10 @@ El Perfil de Empresa estuvo publicado y en funcionamiento más de un año. Al ac
 La actividad se realiza exclusivamente online. No existe un establecimiento abierto al público ni se atiende a clientes en una dirección física. La ficha estaba dada de alta como local, y el cambio de dirección dejó esa configuración a la vista. El domicilio de los documentos de Hacienda es el domicilio fiscal de la actividad, no una tienda.
 
 Petición
-1. Restaurar el Perfil de Empresa. El bloqueo se produjo al cambiar la dirección de una ficha que ya llevaba más de un año activa.
-2. No mantener el perfil como establecimiento físico en Google Maps.
-3. Si el perfil se restaura, dejarlo sin dirección pública visible, o autorizar su cierre, porque no hay local.
+1. Restaurar el mismo Perfil de Empresa, el que ya llevaba más de un año activo. El bloqueo se produjo al cambiar la dirección.
+2. Conservar en esa misma ficha todos los comentarios y todas las reseñas del café que ya estaban publicados. No eliminarlos ni pasarlos a un perfil nuevo.
+3. No mantener el perfil como establecimiento físico en Google Maps.
+4. Si el perfil se restaura, dejarlo sin dirección pública visible. El ajuste tiene que hacerse sobre esta ficha, para que los comentarios y las reseñas sigan asociados a ella.
 
 Pruebas que adjunto
 - Certificado de situación censal de la Agencia Tributaria (nombre, NIF y domicilio fiscal).
