@@ -1,6 +1,6 @@
 # Documentación para apelar en Google
 
-Tu negocio vende **solo online**. No inventes un local: Google lo detecta y vuelve a bloquear. Esta carpeta sirve para **demostrar que la empresa existe** y pedir que **quiten la restricción de la cuenta**, no para fingir una tienda en Maps.
+Tu negocio vende **solo online**. La ficha llevaba más de un año activa y Google la bloqueó al cambiar la dirección, porque estaba dada de alta como local. No inventes un punto físico: Google lo detecta y vuelve a bloquear. Esta carpeta sirve para **contar ese cambio con los datos reales** y pedir que **quiten la restricción**, sin dejar la ficha como tienda en Maps.
 
 ## Qué tienes que hacer, en este orden
 
