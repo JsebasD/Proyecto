@@ -1,0 +1,32 @@
+Solicito la revisión de la restricción de mi cuenta de Google y del Perfil de Empresa asociado.
+
+Datos
+- Titular: Sebastian Duque Gil
+- Cuenta de Google: jsebas000@gmail.com
+- Nombre comercial: [NOMBRE COMERCIAL]
+- NIF/NIE: [NIF]
+- Web: [WEB]
+- Teléfono: [TELEFONO]
+- Actividad: [DESCRIBE EN UNA FRASE, por ejemplo: venta de productos / prestación de servicios por internet]
+
+Hecho
+La actividad se realiza exclusivamente online. No existe un establecimiento abierto al público ni se atiende a clientes en una dirección física. El Perfil de Empresa se configuró por error como tienda o punto físico. Por eso Google pidió verificar un local que no existe.
+
+Petición
+1. Levantar la restricción de la cuenta de Google para poder usarla con normalidad.
+2. No restaurar el perfil como establecimiento físico en Google Maps.
+3. Si el perfil se restaura, que quede sin dirección pública visible, o autorizar su cierre, porque no hay local.
+
+Pruebas que adjunto
+- Certificado de situación censal de la Agencia Tributaria (nombre, NIF y domicilio fiscal).
+- Prueba de alta como autónomo / empresa.
+- Certificado de estar al corriente de obligaciones tributarias.
+- [Facturas emitidas a clientes / captura de la web, si las adjuntas]
+
+El domicilio que figura en Hacienda es el domicilio fiscal de una actividad online, no un local comercial. No represento un punto de venta físico.
+
+Declaro que los documentos son auténticos.
+
+Fecha: [FECHA]
+Nombre y apellidos: Sebastian Duque Gil
+NIF/NIE: [NIF]
