@@ -14,6 +14,7 @@ Tu negocio vende **solo online**. La suspensión es solo del **Perfil de Empresa
 
 ## Qué pedir a Google
 
+- Que tramite la apelación sobre la **dirección nueva**, porque el formulario no deja elegir la anterior, y la aplique a la **misma ficha**.
 - Que **restaure la misma ficha**.
 - Que **conserve los comentarios y las reseñas** del café en esa ficha.
 - Que **no** la deje como tienda física en Maps.
