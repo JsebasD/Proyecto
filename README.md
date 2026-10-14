@@ -1,6 +1,6 @@
 # Proyecto
 
-Documentación para apelar la cuenta de Google (negocio solo online, sin local):
+Documentación para apelar el Perfil de Empresa de Google (negocio solo online, sin local):
 
 - [Qué hacer y dónde enviarlo](docs/google/README.md)
 - [Cómo sacar los PDF de Hacienda](docs/google/como-sacar-documentos.md)
